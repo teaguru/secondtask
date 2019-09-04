@@ -1,3 +1,3 @@
-<p>Футер</p>
+<p><?=$cont['footer'];?></p>
 </body>
 </html>
